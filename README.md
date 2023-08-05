@@ -1,12 +1,13 @@
 Hi 🤙, fancy seeing you here.
 
-My name is Bryan. I'm currently trying to improve my data science skills as I aspire to be a data scientist one day.
-Though kinda different from what I want to do as a profession, I'm also learning web development and game development on the side as hobbies.
+My name is Bryan. I'm interested in quantitative trading and data science. Currently, this repo is meant to share the things that I have learnt and also allow me to practice specific concepts that I would like to delve into. If time permits, I would build up the personal website to do write ups on things as they say sharing is caring. If you would like to connect, you can do so via the following links:
 
-I wanted to create this repository to share what I've learn with everyone so that we can learn from each other.
-If time permits, I'll do up a personal blog to write up what I've learn.
+Linkedin: https://www.linkedin.com/in/twyb/
+Email: twyb98@gmail.com
 
-Cheers! 😎
+Cheers,
+Bryan
+
 <!---
 respice-finem/respice-finem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
